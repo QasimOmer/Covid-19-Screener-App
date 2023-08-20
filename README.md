@@ -5,4 +5,4 @@ can be seen on replit too
 https://replit.com/@QasimOmer1/screener
 
 can be check out on
-https://QasimOmer.github.io/Covid-19-Screener-App/
+https://QasimOmer.github.io/Covid-19-Screener-App.github.io/
